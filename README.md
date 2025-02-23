@@ -46,8 +46,8 @@ The following hyperparameters are tested:
 **Final Performance Metrics:**
 | Learning Rate | Hidden Layers | Time Step | R² Score | RMSE |
 |--------------|--------------|----------|---------|------|
-| 0.01 | 1 | 2 | 0.82 | 1.23 |
-| 0.1 | 2 | 30 min | 0.89 | 0.98 |
+| 0.01 | 2 | 2 | 0.82 | 1.23 |
+| 0.1 | 3 | 4 | 0.89 | 0.98 |
 
 
 
