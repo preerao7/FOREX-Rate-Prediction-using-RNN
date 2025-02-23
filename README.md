@@ -24,10 +24,14 @@ cd FOREX-Rate-Prediction-using-RNN
 
 pip install -r requirements.txt
 
-python RRNForex.py
+python main.py 
+
+or Open and run in Jupyter notebook or google collab 
+
+RRNForex.ipynb 
 
 
-## model
+### model
 
 Model uses LSTM and GRU in processing layers
 
