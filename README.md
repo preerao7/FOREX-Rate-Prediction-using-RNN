@@ -31,7 +31,7 @@ or Open and run in Jupyter notebook or google collab
 RRNForex.ipynb 
 
 
-### model
+### Model
 
 Model uses LSTM and GRU in processing layers
 
